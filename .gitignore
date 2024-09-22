@@ -230,3 +230,4 @@ fabric.properties
 **/.vscode/*
 *.mp4
 /dataset
+train_data.pkl
