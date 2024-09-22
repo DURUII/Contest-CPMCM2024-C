@@ -229,5 +229,4 @@ fabric.properties
 **/.ignore/*
 **/.vscode/*
 *.mp4
-/dataset
 train_data.pkl
