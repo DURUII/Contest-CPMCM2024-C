@@ -230,3 +230,4 @@ fabric.properties
 **/.vscode/*
 *.mp4
 train_data.pkl
+/catboost_1727200491.183646
