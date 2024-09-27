@@ -2,6 +2,10 @@
 
 This repository contains the solution to Problem C of the 21st China Post-graduate Mathematical Contest in Modeling (CPMCM 2024), sponsored by Huawei.
 
+## Information
+
+![“华为杯”第二十届中国研究生数学建模竞赛评审公告](https://cpipc.acge.org.cn//cw/detail/4/2c9080178aee323d018bccd11b4e428a)
+
 ## Usage
 
 1. install the required dependencies
@@ -20,4 +24,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ## Acknowledgments
 
-Heartfelt thanks to my teammates, @[Xinlong CHEN](https://github.com/loong-zm) and @[Qiang ZHANG](https://github.com/zdfya).
+Heartfelt thanks to my teammates, [@Xinlong CHEN](https://github.com/loong-zm) and [@Qiang ZHANG](https://github.com/zdfya).
