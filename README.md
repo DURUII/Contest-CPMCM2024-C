@@ -1,6 +1,6 @@
 # Contest-CPMCM2024-C: Magnetic Core Loss Modeling Driven by Data
 
-This repository contains the solution to Problem C of the 21st China Post-graduate Mathematical Contest in Modeling (CPMCM 2024), sponsored by Huawei.
+This repository contains our solution to Problem C of the 21st China Post-graduate Mathematical Contest in Modeling (CPMCM 2024), sponsored by Huawei. There may be some flaws and even issues in our solution due to limited time and resources.
 
 ## Information
 
